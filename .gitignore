@@ -1,0 +1,5 @@
+node_modules
+mysql
+wp-content/plugins
+package-lock.json
+yarn.lock
